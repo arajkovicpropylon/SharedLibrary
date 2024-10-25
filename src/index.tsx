@@ -5,7 +5,7 @@ interface MyDivProps {
 }
 
 const MyDiv: React.FC<MyDivProps> = ({name}) => {
-    return <div> Hello {name}!</div>;
+    return <div> Hello {name}!!! asdasdasd</div>;
 };
 
 export default MyDiv;
